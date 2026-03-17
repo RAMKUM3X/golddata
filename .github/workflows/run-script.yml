@@ -23,7 +23,7 @@ jobs:
           pip install yfinance requests
 
       - name: Run script
-        run: python Fetch_gold_rate_v3.py
+        run: python Fetch_Gold_Rate_v3.py
 
       - name: Commit & push if changes
         run: |
