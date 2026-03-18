@@ -1,0 +1,21 @@
+{
+  "market": [
+    {
+      "date": "2026-03-18",
+      "comex": 160.36,
+      "usdinr": 92.44,
+      "comex_inr_999": 14823,
+      "ibja999": null
+    },
+    {
+      "date": "2026-03-17",
+      "comex": 160.85,
+      "usdinr": 92.35,
+      "comex_inr_999": 14854,
+      "ibja999": null
+    }
+  ],
+  "version": "2026V1",
+  "server_date": "2026-03-18",
+  "updated": "2026-03-18T04:55:52"
+}
