@@ -1,0 +1,18 @@
+{
+  "market": [
+    {
+      "date": "2026-05-25",
+      "morning": null,
+      "post_11am": {
+        "updated": "2026-05-25T11:26:40",
+        "comex": 145.42,
+        "usdinr": 95.18,
+        "comex_inr_999": 13841,
+        "india_rate_999": 16521.97
+      }
+    }
+  ],
+  "version": "2026V1",
+  "server_date": "2026-05-25",
+  "updated": "2026-05-25T11:26:40"
+}
