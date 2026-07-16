@@ -1,0 +1,29 @@
+{
+  "market": [
+    {
+      "date": "2026-07-16",
+      "morning": {
+        "updated": "2026-07-16T10:06:18",
+        "comex": 129.82,
+        "usdinr": 96.33,
+        "comex_inr_999": 12506,
+        "india_rate_999": 14927.42
+      },
+      "post_11am": null
+    },
+    {
+      "date": "2026-07-15",
+      "morning": null,
+      "post_11am": {
+        "updated": "2026-07-15T12:59:43",
+        "comex": 129.76,
+        "usdinr": 96.22,
+        "comex_inr_999": 12486,
+        "india_rate_999": 14903.84
+      }
+    }
+  ],
+  "version": "2026V1",
+  "server_date": "2026-07-16",
+  "updated": "2026-07-16T10:06:18"
+}
