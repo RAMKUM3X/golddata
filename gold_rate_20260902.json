@@ -4,26 +4,15 @@
       "date": "2026-09-02",
       "morning": null,
       "post_11am": {
-        "updated": "2026-09-02T11:39:34",
-        "comex": 140.4,
+        "updated": "2026-09-02T15:20:20",
+        "comex": 140.07,
         "usdinr": 94.96,
-        "comex_inr_999": 13332,
-        "india_rate_999": 15914.24
-      }
-    },
-    {
-      "date": "2026-09-01",
-      "morning": null,
-      "post_11am": {
-        "updated": "2026-09-01T15:52:11",
-        "comex": 142.3,
-        "usdinr": 94.94,
-        "comex_inr_999": 13510,
-        "india_rate_999": 16126.16
+        "comex_inr_999": 13301,
+        "india_rate_999": 15876.51
       }
     }
   ],
   "version": "2026V1",
   "server_date": "2026-09-02",
-  "updated": "2026-09-02T11:39:34"
+  "updated": "2026-09-02T15:20:20"
 }
