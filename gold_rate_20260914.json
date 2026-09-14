@@ -4,15 +4,15 @@
       "date": "2026-09-14",
       "morning": null,
       "post_11am": {
-        "updated": "2026-09-14T12:11:26",
-        "comex": 140.56,
+        "updated": "2026-09-14T16:25:07",
+        "comex": 139.33,
         "usdinr": 95.54,
-        "comex_inr_999": 13429,
-        "india_rate_999": 16030.08
+        "comex_inr_999": 13312,
+        "india_rate_999": 15890.02
       }
     }
   ],
   "version": "2026V1",
   "server_date": "2026-09-14",
-  "updated": "2026-09-14T12:11:26"
+  "updated": "2026-09-14T16:25:07"
 }
